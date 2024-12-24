@@ -1,6 +1,6 @@
-# Kaggle-titanic
+# kaggle-titanic
 
-### 개인 프로젝트 - Kaggle_titanic 대회
+### 개인 프로젝트 - kaggle_titanic 대회
 ### 프로젝트 기간 : 약 3주 (2022.10)
 
 ### 사용 프로그램 : Visual Studio Code, Anaconda3
